@@ -1,1 +1,1 @@
-# UnsplashDemo
+# UnsplashApp
